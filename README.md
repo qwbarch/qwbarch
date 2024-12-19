@@ -4,21 +4,13 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Toronto
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/12/2024 06:58:00 UTC
+ Last Updated on 19/12/2024 07:00:35 UTC
 <!--END_SECTION:waka-->
