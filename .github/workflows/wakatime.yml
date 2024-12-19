@@ -29,7 +29,6 @@ jobs:
   update-monthly:
     name: WakaTime Monthly Metrics
     runs-on: ubuntu-latest
-    needs: update-total
     steps:
       - uses: athul/waka-readme@master
         with:
