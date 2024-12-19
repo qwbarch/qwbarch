@@ -2,19 +2,10 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 11 February 2022 - To: 19 December 2024
+```txt
+Total Time: 0 secs
 
-Total Time: 182 hrs 12 mins
-
-Haskell       131 hrs 53 mins >>>>>>>>>>>>>>>>>>-------   72.07 %
-JavaScript    14 hrs 4 mins   >>-----------------------   07.69 %
-PureScript    12 hrs 18 mins  >>-----------------------   06.72 %
-TypeScript    5 hrs 12 mins   >------------------------   02.85 %
-Dhall         3 hrs 33 mins   -------------------------   01.94 %
-Java          2 hrs 16 mins   -------------------------   01.24 %
-Docker        2 hrs 1 min     -------------------------   01.11 %
-sh            1 hr 1 min      -------------------------   00.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
