@@ -14,5 +14,5 @@ sh            1 hr 1 min      ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-time-range-total-->
-<!--START_SECTION:waka-time-range-weekly-->
-<!--END_SECTION:waka-time-range-weekly-->
+<!--START_SECTION:waka-time-range-monthly-->
+<!--END_SECTION:waka-time-range-monthly-->
