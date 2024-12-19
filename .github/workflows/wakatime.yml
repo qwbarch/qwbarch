@@ -35,7 +35,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: wakamonthly
           BLOCKS: ░▒▓█
-          TIME_RANGE: all_time
+          TIME_RANGE: last_30_days
           LANG_COUNT: 10
           CODE_LANG: asm
           SHOW_TIME: true
