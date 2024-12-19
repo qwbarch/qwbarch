@@ -8,8 +8,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:wakamonthly-->
-#### Total metrics
-<!--START_SECTION:wakatotal-->
+#### Lifetime metrics
+<!--START_SECTION:wakalifetime-->
 
 ```asm
 Total Time: 182 hrs 12 mins
@@ -22,4 +22,4 @@ Java          2 hrs 16 mins   ▒░░░░░░░░░░░░░░░�
 Python        52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
-<!--END_SECTION:wakatotal-->
+<!--END_SECTION:wakalifetime-->
