@@ -1,3 +1,12 @@
+##### Monthly metrics
+<!--START_SECTION:wakamonthly-->
+
+```asm
+No activity tracked
+```
+
+<!--END_SECTION:wakamonthly-->
+##### Total metrics
 <!--START_SECTION:wakatotal-->
 
 ```asm
@@ -14,10 +23,3 @@ sh            1 hr 1 min      ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:wakatotal-->
-<!--START_SECTION:wakamonthly-->
-
-```asm
-No activity tracked
-```
-
-<!--END_SECTION:wakamonthly-->
