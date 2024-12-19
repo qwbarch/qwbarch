@@ -1,8 +1,6 @@
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=qwbarch&layout=compact&hide=yaml,sh,conf,cabal,bash,csv,viml,git%20config,css,json,dhall,docker,other&custom_title=Time%20spent%20on%20languages&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-time-range-total-->
 
-<!--START_SECTION:waka-->
-
-```txt
+```asm
 Total Time: 182 hrs 12 mins
 
 Haskell       131 hrs 53 mins ██████████████████░░░░░░░   72.07 %
@@ -15,4 +13,6 @@ Docker        2 hrs 1 min     ▒░░░░░░░░░░░░░░░�
 sh            1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-time-range-total-->
+<!--START_SECTION:waka-time-range-weekly-->
+<!--END_SECTION:waka-time-range-weekly-->
