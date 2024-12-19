@@ -2,6 +2,8 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
+Total Time: 0 secs
+
 No activity tracked
 ```
 
