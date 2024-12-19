@@ -7,33 +7,14 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  update-time-range-total:
+  update-readme:
     name: WakaTime Total Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka_time_range_total
-          BLOCKS: ░▒▓█
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
-          CODE_LANG: asm
-          SHOW_TIME: true
-          SHOW_TOTAL: false
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-  update-time-range-monthly:
-    name: WakaTime Monthly Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka_time_range_monthly
+          SECTION_NAME: waka-time-range-total
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
           LANG_COUNT: 10
