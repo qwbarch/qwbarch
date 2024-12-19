@@ -23,7 +23,7 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker Sh
+          IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
   update-monthly:
@@ -42,6 +42,6 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker Sh
+          IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
