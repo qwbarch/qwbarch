@@ -1,4 +1,4 @@
-<!--START_SECTION:waka-time-range-total-->
+<!--START_SECTION:wakatotal->
 
 ```asm
 Total Time: 182 hrs 12 mins
@@ -13,6 +13,6 @@ Docker        2 hrs 1 min     ▒░░░░░░░░░░░░░░░�
 sh            1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
-<!--END_SECTION:waka-time-range-total-->
-<!--START_SECTION:waka-time-range-monthly-->
-<!--END_SECTION:waka-time-range-monthly-->
+<!--END_SECTION:wakatotal-->
+<!--START_SECTION:wakamonthly-->
+<!--END_SECTION:wakamonthly-->
