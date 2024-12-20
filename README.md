@@ -2,9 +2,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 0 secs
+Total Time: 3 hrs 41 mins
 
-No activity tracked
+Nix            1 hr 48 mins    ████████████▒░░░░░░░░░░░░   48.91 %
+Haskell        30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+JavaScript     22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+F#             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+cabalproject   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+C              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:wakamonthly-->
