@@ -1,7 +1,7 @@
 name: Waka Readme
 
 env:
-  IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh Bash Markdown cabal cabalproject Other
+  IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh Bash Markdown cabal cabalproject Other Text GitConfig
 
 on:
   workflow_dispatch:
