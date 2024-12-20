@@ -24,3 +24,7 @@ Other         49 mins         ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:wakalifetime-->
+
+---
+
+Above metrics are provided by [WakaTime](<https://github.com/athul/waka-readme>).
