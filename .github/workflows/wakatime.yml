@@ -12,7 +12,7 @@ on:
       - main
 
 jobs:
-  update-total:
+  update-lifetime:
     name: WakaTime Total Metrics
     runs-on: ubuntu-latest
     steps:
@@ -34,6 +34,7 @@ jobs:
   update-monthly:
     name: WakaTime Monthly Metrics
     runs-on: ubuntu-latest
+    needs: update-lifetime
     steps:
       - uses: athul/waka-readme@master
         with:
