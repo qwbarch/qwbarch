@@ -2,6 +2,7 @@ name: Waka Readme
 
 env:
   IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh Bash Markdown cabal cabalproject Other Text "Git Config" conf VimL CSV CSS "Vim Script" CMake
+  LANG_COUNT: 10
 
 on:
   workflow_dispatch:
@@ -22,7 +23,7 @@ jobs:
           SECTION_NAME: wakalifetime
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
-          LANG_COUNT: 15
+          LANG_COUNT: ${{ env.LANG_COUNT }}
           CODE_LANG: asm
           SHOW_TIME: true
           SHOW_TOTAL: true
@@ -42,7 +43,7 @@ jobs:
           SECTION_NAME: wakamonthly
           BLOCKS: ░▒▓█
           TIME_RANGE: last_30_days
-          LANG_COUNT: 15
+          LANG_COUNT: ${{ env.LANG_COUNT }}
           CODE_LANG: asm
           SHOW_TIME: true
           SHOW_TOTAL: true
