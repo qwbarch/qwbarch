@@ -32,4 +32,4 @@ Java           2 hrs 16 mins   ▒░░░░░░░░░░░░░░░�
 
 ---
 
-Metrics are tracked and provided by [WakaTime](https://github.com/anmol098/waka-readme-stats).
+Metrics are tracked and provided by [WakaTime](https://github.com/athul/waka-readme).
