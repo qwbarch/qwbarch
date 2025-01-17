@@ -2,7 +2,7 @@ name: Waka Readme
 
 env:
   IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh Bash Markdown cabal cabalproject Other Text "Git Config" conf VimL CSV CSS "Vim Script" CMake Nix
-  LANG_COUNT: 10
+  LANG_COUNT: -1
 
 on:
   workflow_dispatch:
