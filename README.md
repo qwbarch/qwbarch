@@ -2,14 +2,11 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 15 hrs 8 mins
+Total Time: 10 hrs 17 mins
 
-Java         5 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.82 %
-Rust         2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
-JavaScript   2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Lean         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-F#           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Haskell      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java       5 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.98 %
+Rust       2 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+F#         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:wakamonthly-->
