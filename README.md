@@ -2,11 +2,10 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 10 hrs 17 mins
+Total Time: 6 hrs 54 mins
 
-Java       5 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.98 %
-Rust       2 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-F#         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Java       5 hrs 2 mins    ██████████████████▒░░░░░░   72.96 %
+F#         38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:wakamonthly-->
