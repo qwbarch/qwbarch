@@ -2,10 +2,10 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 2 hrs 53 mins
+Total Time: 2 hrs 10 mins
 
-Java       59 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
-F#         39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+F#         39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:wakamonthly-->
