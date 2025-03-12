@@ -6,7 +6,6 @@ Total Time: 12 hrs 33 mins
 
 Java             10 hrs 59 mins  ██████████████████████░░░   87.46 %
 F#               57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:wakamonthly-->
