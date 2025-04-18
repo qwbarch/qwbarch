@@ -1,7 +1,7 @@
 name: Waka Readme
 
 env:
-  IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh Bash Markdown cabal cabalproject Other Text "Git Config" conf VimL CSV CSS "Vim Script" CMake Nix "Image (png)" XML Objective-C INI pdf "GitIgnore file"
+  IGNORED_LANGUAGES: YAML JSON TOML Dhall Docker sh Bash Markdown cabal cabalproject Other Text "Git Config" conf VimL CSV CSS "Vim Script" CMake "Image (png)" XML Objective-C INI pdf "GitIgnore file" HTML
   LANG_COUNT: 10
 
 on:
