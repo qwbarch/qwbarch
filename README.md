@@ -2,12 +2,14 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 10 hrs 29 mins
+Total Time: 56 hrs 5 mins
 
-Java             7 hrs 53 mins   ██████████████████▓░░░░░░   75.25 %
-F#               1 hr 51 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-Python           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-C#               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+F#                                 27 hrs 26 mins  ████████████▒░░░░░░░░░░░░   48.89 %
+TypeScript                         4 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+HTML                               4 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+C#                                 1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+PureScript                         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+JavaScript                         1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:wakamonthly-->
