@@ -2,14 +2,14 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 50 hrs 35 mins
+Total Time: 47 hrs 57 mins
 
-F#                                 22 hrs 35 mins  ███████████░░░░░░░░░░░░░░   44.64 %
-TypeScript                         5 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-C#                                 1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Nix                                1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-PureScript                         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-JavaScript                         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+F#                                 20 hrs          ██████████▒░░░░░░░░░░░░░░   41.70 %
+TypeScript                         5 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+C#                                 1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Nix                                1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+PureScript                         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+JavaScript                         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:wakamonthly-->
