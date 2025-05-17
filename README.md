@@ -2,12 +2,12 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 12 hrs 37 mins
+Total Time: 12 hrs 35 mins
 
-TypeScript   4 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   35.26 %
-PureScript   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-F#           37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+TypeScript   4 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   35.33 %
+PureScript   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+JavaScript   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+F#           37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
