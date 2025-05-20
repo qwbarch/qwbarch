@@ -2,13 +2,10 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 8 hrs 34 mins
+Total Time: 49 mins
 
-TypeScript   3 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.34 %
-F#           37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Janet        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+F#           37 mins         ██████████████████▓░░░░░░   74.52 %
+TypeScript   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
 ```
 
 <!--END_SECTION:wakamonthly-->
