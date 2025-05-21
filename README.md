@@ -2,10 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 49 mins
+Total Time: 37 mins
 
-F#           37 mins         ██████████████████▓░░░░░░   74.52 %
-TypeScript   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+F#   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:wakamonthly-->
