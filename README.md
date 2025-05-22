@@ -2,9 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 37 mins
+Total Time: 0 secs
 
-F#   37 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakamonthly-->
