@@ -14,13 +14,13 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakalifetime-->
 
 ```asm
-Total Time: 346 hrs 46 mins
+Total Time: 346 hrs 48 mins
 
-Haskell                            154 hrs 34 mins ███████████░░░░░░░░░░░░░░   44.43 %
+Haskell                            154 hrs 34 mins ███████████░░░░░░░░░░░░░░   44.42 %
 F#                                 31 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
 C                                  23 hrs 16 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
 Java                               21 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-PureScript                         20 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+PureScript                         20 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 JavaScript                         17 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 Nix                                11 hrs 46 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 TypeScript                         10 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
