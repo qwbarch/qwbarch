@@ -14,17 +14,17 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakalifetime-->
 
 ```asm
-Total Time: 346 hrs 48 mins
+Total Time: 353 hrs 27 mins
 
-Haskell                            154 hrs 34 mins ███████████░░░░░░░░░░░░░░   44.42 %
-F#                                 31 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-C                                  23 hrs 16 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Java                               21 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-PureScript                         20 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-JavaScript                         17 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Nix                                11 hrs 46 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-TypeScript                         10 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Rust                               3 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Haskell                            154 hrs 34 mins ███████████░░░░░░░░░░░░░░   43.59 %
+F#                                 31 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+PureScript                         27 hrs 8 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+C                                  23 hrs 16 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Java                               21 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JavaScript                         17 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Nix                                11 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TypeScript                         10 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Rust                               3 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:wakalifetime-->
