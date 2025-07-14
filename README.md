@@ -4,7 +4,7 @@
 ```asm
 Total Time: 18 hrs 47 mins
 
-PureScript   17 hrs 47 mins  ███████████████████████▓░   94.65 %
+PureScript   17 hrs 47 mins  ███████████████████████▓░   94.66 %
 C#           58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
