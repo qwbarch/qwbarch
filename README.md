@@ -2,10 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 18 hrs 47 mins
+Total Time: 17 hrs 51 mins
 
-PureScript   17 hrs 47 mins  ███████████████████████▓░   94.66 %
-C#           58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+PureScript   17 hrs 49 mins  █████████████████████████   99.81 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
