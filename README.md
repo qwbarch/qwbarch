@@ -2,11 +2,12 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 16 hrs 29 mins
+Total Time: 20 hrs 3 mins
 
-PureScript   15 hrs 15 mins  ███████████████████████░░   92.55 %
-Python       1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+PureScript   14 hrs 24 mins  ██████████████████░░░░░░░   71.84 %
+Java         4 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
+Python       1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:wakamonthly-->
