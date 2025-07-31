@@ -2,15 +2,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 32 hrs 34 mins
+Total Time: 57 hrs 16 mins
 
-Java                17 hrs 2 mins   █████████████░░░░░░░░░░░░   52.31 %
-PureScript          13 hrs 22 mins  ██████████▒░░░░░░░░░░░░░░   41.05 %
-Python              1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Gradle              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Groovy              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-textmate            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JavaScript          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java                41 hrs 2 mins   ██████████████████░░░░░░░   71.67 %
+PureScript          13 hrs 22 mins  ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+Python              1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Gradle              17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Groovy              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Properties          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+IDEA_MODULE         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:wakamonthly-->
