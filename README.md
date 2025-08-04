@@ -2,14 +2,14 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 78 hrs 51 mins
+Total Time: 77 hrs 48 mins
 
-Java                62 hrs 44 mins  ████████████████████░░░░░   79.52 %
-PureScript          12 hrs 9 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-Python              1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Gradle              20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Groovy              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Properties          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java                62 hrs 44 mins  ████████████████████░░░░░   80.62 %
+PureScript          10 hrs 59 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Python              1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Gradle              20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Groovy              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Properties          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:wakamonthly-->
