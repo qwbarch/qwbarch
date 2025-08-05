@@ -2,10 +2,10 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 77 hrs 48 mins
+Total Time: 77 hrs 45 mins
 
-Java                62 hrs 44 mins  ████████████████████░░░░░   80.62 %
-PureScript          10 hrs 59 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Java                62 hrs 44 mins  ████████████████████░░░░░   80.66 %
+PureScript          10 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
 Python              1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 Gradle              20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Groovy              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
