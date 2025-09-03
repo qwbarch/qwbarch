@@ -2,13 +2,10 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 2 hrs 6 mins
+Total Time: 2 hrs
 
-F#         1 hr 23 mins    ████████████████░░░░░░░░░   64.37 %
-C#         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Groovy     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Gradle     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+F#         1 hr 23 mins    █████████████████░░░░░░░░   67.58 %
+C#         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 <!--END_SECTION:wakamonthly-->
