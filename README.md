@@ -2,11 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 10 hrs 40 mins
+Total Time: 9 hrs 26 mins
 
-Python       8 hrs 13 mins   ███████████████████░░░░░░   76.48 %
-F#           1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-C#           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python       8 hrs 56 mins   ███████████████████████▓░   94.68 %
 ```
 
 <!--END_SECTION:wakamonthly-->
