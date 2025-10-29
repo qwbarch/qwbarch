@@ -16,9 +16,9 @@ C#           1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakalifetime-->
 
 ```asm
-Total Time: 466 hrs
+Total Time: 466 hrs 3 mins
 
-Haskell                            154 hrs 34 mins ████████▒░░░░░░░░░░░░░░░░   33.08 %
+Haskell                            154 hrs 34 mins ████████▒░░░░░░░░░░░░░░░░   33.07 %
 Java                               84 hrs 40 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
 Python                             34 hrs 8 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 F#                                 32 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
