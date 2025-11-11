@@ -2,14 +2,14 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 31 hrs 4 mins
+Total Time: 25 hrs 31 mins
 
-Python       21 hrs 22 mins  █████████████████▒░░░░░░░   68.71 %
-Lean4        5 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-PureScript   1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-F#           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       16 hrs 22 mins  ████████████████░░░░░░░░░   64.07 %
+Lean4        5 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+PureScript   1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+F#           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:wakamonthly-->
