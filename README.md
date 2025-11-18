@@ -4,11 +4,11 @@
 ```asm
 Total Time: 37 hrs 51 mins
 
-Python       28 hrs 52 mins  ███████████████████░░░░░░   76.21 %
+Python       29 hrs 27 mins  ███████████████████▒░░░░░   77.74 %
 Lean4        5 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
 PureScript   1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-F#           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:wakamonthly-->
