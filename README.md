@@ -9,6 +9,7 @@ PureScript   1 hr 43 mins    █▓░░░░░░░░░░░░░░░
 JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Lean4        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:wakamonthly-->
