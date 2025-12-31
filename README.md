@@ -2,12 +2,11 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 9 hrs 54 mins
+Total Time: 6 hrs 11 mins
 
-F#         3 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
-Python     3 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
-Kotlin     2 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+F#         3 hrs 40 mins   ██████████████▓░░░░░░░░░░   59.27 %
+Kotlin     2 hrs 26 mins   ██████████░░░░░░░░░░░░░░░   39.47 %
+Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:wakamonthly-->
