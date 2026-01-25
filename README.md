@@ -2,12 +2,15 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 2 hrs 51 mins
+Total Time: 10 hrs 22 mins
 
-Kotlin       2 hrs 31 mins   ██████████████████████░░░   88.65 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin            9 hrs 52 mins   ███████████████████████▓░   95.27 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:wakamonthly-->
