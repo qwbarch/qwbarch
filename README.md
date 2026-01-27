@@ -2,14 +2,14 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 11 hrs 50 mins
+Total Time: 9 hrs 55 mins
 
-Kotlin            11 hrs 20 mins  ████████████████████████░   95.85 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Kotlin            9 hrs 26 mins   ███████████████████████▓░   95.17 %
 Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
