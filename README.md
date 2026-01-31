@@ -2,13 +2,13 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 10 hrs 34 mins
+Total Time: 12 hrs 5 mins
 
-Kotlin            9 hrs 53 mins   ███████████████████████▒░   93.54 %
-Batchfile         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Python            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-PureScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Kotlin            9 hrs 53 mins   ████████████████████▒░░░░   81.82 %
+Python            1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Batchfile         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PureScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:wakamonthly-->
