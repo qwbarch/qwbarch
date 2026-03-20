@@ -2,13 +2,12 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 44 hrs 36 mins
+Total Time: 43 hrs 5 mins
 
-Haskell          27 hrs 58 mins        ███████████████▓░░░░░░░░░   62.65 %
-Python           8 hrs 40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-Java             5 hrs 33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Kotlin           11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Cabal Config     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Haskell        27 hrs 58 mins        ████████████████▒░░░░░░░░   64.87 %
+Python         8 hrs 40 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Java           4 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Kotlin         11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:wakamonthly-->
