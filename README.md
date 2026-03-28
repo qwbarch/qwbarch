@@ -2,11 +2,10 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 5 hrs 27 mins
+Total Time: 5 hrs 9 mins
 
-Java         4 hrs 6 mins          ███████████████████░░░░░░   75.49 %
-Haskell      58 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Kotlin       11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Java       4 hrs 6 mins          ████████████████████░░░░░   79.74 %
+Haskell    52 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
 ```
 
 <!--END_SECTION:wakamonthly-->
