@@ -2,9 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 2 hrs 3 mins
+Total Time: 2 hrs
 
-Java   2 hrs                 ████████████████████████▒   97.82 %
+Java   2 hrs                 █████████████████████████   99.70 %
 ```
 
 <!--END_SECTION:wakamonthly-->
