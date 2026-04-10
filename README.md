@@ -2,9 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 2 hrs
+Total Time: 0 secs
 
-Java   2 hrs                 █████████████████████████   99.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakamonthly-->
