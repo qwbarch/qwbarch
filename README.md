@@ -2,9 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 0 secs
+Total Time: 16 mins
 
-No activity tracked
+Haskell    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:wakamonthly-->
