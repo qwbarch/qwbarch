@@ -2,14 +2,13 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 7 hrs 14 mins
+Total Time: 7 hrs 2 mins
 
-Lua          5 hrs 33 mins         ███████████████████░░░░░░   76.59 %
-Rust         39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Makefile     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-JavaScript   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Haskell      8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Lean4        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Lua          5 hrs 33 mins         ███████████████████▓░░░░░   78.75 %
+Rust         39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Makefile     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+JavaScript   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Haskell      5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:wakamonthly-->
