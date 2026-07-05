@@ -2,9 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 6 hrs 5 mins
+Total Time: 3 hrs 50 mins
 
-Lua        5 hrs 33 mins         ██████████████████████▓░░   90.97 %
+Lua        3 hrs 18 mins         █████████████████████▓░░░   86.15 %
 ```
 
 <!--END_SECTION:wakamonthly-->
