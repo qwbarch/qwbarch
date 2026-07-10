@@ -2,9 +2,9 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 3 hrs 50 mins
+Total Time: 0 secs
 
-Lua        3 hrs 18 mins         █████████████████████▓░░░   86.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakamonthly-->
