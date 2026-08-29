@@ -2,14 +2,14 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 181 hrs
+Total Time: 171 hrs 43 mins
 
-Haskell          109 hrs 5 mins        ██████████████▓░░░░░░░░░░   59.33 %
-Python           18 hrs 1 min          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-JavaScript       8 hrs 41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-C                5 hrs 35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Nix              5 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Jsonnet          1 hr 55 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Haskell          100 hrs 56 mins       ██████████████▒░░░░░░░░░░   57.83 %
+Python           18 hrs 1 min          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+JavaScript       8 hrs 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+C                5 hrs 35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Nix              4 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Jsonnet          1 hr 55 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:wakamonthly-->
