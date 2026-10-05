@@ -2,14 +2,13 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 50 hrs 40 mins
+Total Time: 54 hrs 9 mins
 
-Haskell        39 hrs 46 mins        ███████████████████▒░░░░░   76.89 %
-Python         3 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Java           1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Nix            45 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-TypeScript     32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Cap'n Proto    13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Haskell        42 hrs 54 mins        ███████████████████▓░░░░░   78.06 %
+Python         3 hrs 27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Java           1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Nix            33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript     32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:wakamonthly-->
