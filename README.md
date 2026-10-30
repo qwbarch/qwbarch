@@ -2,13 +2,13 @@
 <!--START_SECTION:wakamonthly-->
 
 ```asm
-Total Time: 81 hrs 25 mins
+Total Time: 75 hrs 51 mins
 
-Kotlin                 37 hrs 22 mins        ███████████▒░░░░░░░░░░░░░   45.47 %
-Haskell                27 hrs 39 mins        ████████▒░░░░░░░░░░░░░░░░   33.65 %
-Java                   6 hrs 7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Lua                    18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Python                 10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Kotlin                 37 hrs 22 mins        ████████████▒░░░░░░░░░░░░   48.79 %
+Haskell                22 hrs 25 mins        ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+Java                   6 hrs 7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Lua                    18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python                 10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:wakamonthly-->
